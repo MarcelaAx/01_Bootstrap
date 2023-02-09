@@ -1,0 +1,28 @@
+
+.navbar {
+    background-color: #fa7b05e8;
+}
+
+.sobre {
+    background-color: #2c486b ;
+    color:blanchedalmond;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.estruturas {
+    background-color: #AED6F1;
+}
+
+.conclusao {
+    background-color: #D5F5E3;
+}
+
+.bg-footer {
+    background-color: #fa7b05e8;
+    color:blanchedalmond;
+    padding: 10px;
+}
